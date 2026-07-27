@@ -22,8 +22,8 @@ I'm a **Software Engineer** with 2+ years of professional experience building sc
 - 📚 **Research Interests:** Fascinated by historical anomalies, declassified government accounts, and deep dives into scientific and structural histories.
 
 ## 📫 How to reach me
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile Here]
+- **Email:** zahidhasan19932023@gmail.com
+- **LinkedIn:**(https://www.linkedin.com/in/zahid-hasan-2434a0279/)
 
 ---
 ⭐️ *Fun Fact: I built a custom drawing infrastructure using the native Maps JavaScript API to future-proof legacy systems!*
