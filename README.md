@@ -12,9 +12,9 @@ I'm a **Software Engineer** with 2+ years of professional experience building sc
 
 ## 🚀 Tech Stack
 
-**Languages & Frameworks:** Angular, Node.js, .NET, JavaScript/TypeScript  
-**Cloud & Databases:** Firebase, Firestore, Google Cloud Secret Manager  
-**Tools & Ecosystems:** Notion, Scoop (Windows CLI), Ollama, OpenCode CLI
+**Languages & Frameworks:** React, Angular, Node.js, .NET, JavaScript/TypeScript  
+**Cloud & Databases:** Firebase, Firestore, Google Cloud Secret Manager,MSSQL,PostgreSQL,mongoDB  
+**Tools & Ecosystems:** VS code, visual studio, figma ETC
 
 ## ⚡ Outside of Code
 
